@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8312732993",
+    "project_id": "login420-26bef",
+    "storage_bucket": "login420-26bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8312732993:android:1b74c8f8899dc47bd935c0",
+        "android_client_info": {
+          "package_name": "com.example.loginlumiere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2so8vN8Xy9upNRbHbgFRnRQ_4kvaAJ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

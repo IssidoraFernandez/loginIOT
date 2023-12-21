@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginLumiere</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="inicia_sesi_n">Inicia Sesión</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="postloginactivity">postLoginActivity</string>
+    <string name="registrar_usuario">Registrar usuario</string>
+</resources>
